@@ -2,9 +2,10 @@ body{
     margin: 0;
 }
 .div-width h1{
-    border-left: 5px solid #eb463b;
+    border-left: 5px solid #f32d1f;
     border-radius: 2px;
-    font-size: 50px;
+    font-size: 70px;
+    padding-left: 2%;
 }
 h1 span{
     color: #f7551a;
@@ -26,8 +27,11 @@ section{
     padding-left: 2%;
 }
 #mg{
-    margin-left: 5%;
+    margin-left: 2%;
     margin-top: 1%;
+}
+.stretch{
+    padding-left: 2%;
 }
 .link-button{
     text-decoration: none;

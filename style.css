@@ -6,6 +6,7 @@ body{
     border-radius: 2px;
     font-size: 80px;
     padding-left: 2%;
+    margin-bottom: 2%;
 }
 span{
     color: #f7551a;
@@ -18,12 +19,12 @@ section{
     width: 40%;
     float: left;
 }
-.div-width img{
+#mg img{
     width: 70%;
 }
 #st{
     margin-left: 7%;
-    margin-top: 7%;
+    margin-top: 5%;
     padding-left: 2%;
 }
 #mg{
@@ -43,10 +44,12 @@ section{
     font-weight: 700;
 }
 p{
-    font-size: 20px;
-    color: dimgray;
+    font-size: 25px;
+    color: #000000;
 }
 .h_2{
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 60px;
     text-align: center;
 }
@@ -77,4 +80,25 @@ p{
 .ill{
     width: 40%;
     padding-top:7%;
+}
+#limits{
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+}
+#codeimg{
+    margin-top: 1%;
+    margin-left: 10%;
+}
+#imgcode{
+    width: 80%;
+}
+#imagp{
+    width: 40%;
+    float: left;
+}
+#devp{
+    width: 50%;
+    float: left;
+    margin-left: -3%;
 }

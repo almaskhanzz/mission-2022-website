@@ -52,6 +52,7 @@ p{
     font-family: 'Poppins', sans-serif;
     font-size: 60px;
     text-align: center;
+    margin-top: 1%;
 }
 /*Second section*/
 .divsss{
@@ -81,7 +82,7 @@ p{
     width: 40%;
     padding-top:7%;
 }
-#limits{
+.limits{
     font-family: 'DM Serif Display', serif;
     font-family: 'Poppins', sans-serif;
     font-size: 45px;
@@ -112,4 +113,55 @@ p{
     background-repeat: no-repeat;
     background-position: 4.5% 19%;
     background-size: 16%;
+}
+#global{
+    width: 48%;
+    float: left;
+    margin-top: 2%;
+   
+}
+#global p{
+    text-align: justify;
+    margin-top: -3%;
+    margin-bottom: 5%;
+    
+}
+#imgproject{
+    width: 40%;
+    float: left;
+    margin-left: 9.5%;
+}
+#img-pro{
+    width: 80%;
+}
+#codeimgs{
+    margin-top: -3%;
+    margin-left: 10%;
+}
+.shapez{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 95% 77%;
+    background-size: 13%;
+}
+footer {
+    background-color: black;
+    height: 200px;
+}
+footer h2{
+    color: white;
+    text-align: center;
+    font-family: 'Pattaya', sans-serif;
+    font-size: 50px;
+    padding-top: 2%;
+}
+footer span{
+    color: #f7551a;
+}
+footer h3{
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    margin-top: -1%;
 }

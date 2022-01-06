@@ -71,6 +71,21 @@ p{
     background-color: #FFF8DC;
     border: 1px solid #FFF8DC;
 }
+#mission p{
+    font-size: 17px;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+#vission p{
+    font-size: 17px;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+#goal p{
+    font-size: 17px;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
 .sameall{
     width: 25.5%;
     height:390px;
@@ -86,6 +101,11 @@ p{
     font-family: 'DM Serif Display', serif;
     font-family: 'Poppins', sans-serif;
     font-size: 45px;
+}
+.tore{
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
 }
 #codeimg{
     margin-top: 1%;
@@ -151,17 +171,36 @@ p{
     border-radius: 25px;
     padding-left: 2%;
 }
+.last-sec span{
+    color: #f7551a;
+}
+.last-sec h1{
+    text-align: center;
+    font-size: 35px;
+    border-bottom: 5px solid #FAF0E6;
+}
+.last-sec h2{
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
 #last{
-    background-color: #FAFAD2;
-    border: 1px solid #E0FFFF;
+    background-color: Snow;
     margin: auto;
     width: 60%;
-    padding: 10px;
+    padding: 40px;
+}
+.last-min{
+    margin-top: 10%;
+    margin-bottom: 7%;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
 }
 .ltimg{
     background-image: url(images/shapes/shape-8.png);
     background-repeat: no-repeat;
-    background-position: 85% 77%;
+    background-position: 86% 88%;
     background-size: 13%;
 }
 footer {

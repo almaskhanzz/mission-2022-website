@@ -144,6 +144,26 @@ p{
     background-position: 95% 77%;
     background-size: 13%;
 }
+.last-sec{
+    width: 50%;
+    height:390px;
+    margin-left: 2%;
+    border-radius: 25px;
+    padding-left: 2%;
+}
+#last{
+    background-color: #FAFAD2;
+    border: 1px solid #E0FFFF;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+.ltimg{
+    background-image: url(images/shapes/shape-8.png);
+    background-repeat: no-repeat;
+    background-position: 85% 77%;
+    background-size: 13%;
+}
 footer {
     background-color: black;
     height: 200px;
